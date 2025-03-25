@@ -1,4 +1,6 @@
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{RobertReed1412}/{IntegrationFinal}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{RobertReed1412}/{IntegrationFina})
+# Copyright (c) 2025 Your Name
+# This software is licensed under the MIT License.
+# See the LICENSE file for more details.
 
 ## Integration Final
 
@@ -7,3 +9,10 @@ This project was my final project for a class in my softmore year. This program 
 ### Software Abstract
 
 The software is an early programing project that involes useing python to inplament classes and integration into a single project to deepen my understanding of programming as a whole. 
+
+### Liscence
+This repository is liscened using the **MIT Liscense** - see the [license](license) file fro the full liscence. 
+
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{RobertReed1412}/{IntegrationFinal}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{RobertReed1412}/{IntegrationFina})
+
+
