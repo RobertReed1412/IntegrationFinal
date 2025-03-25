@@ -1,3 +1,6 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10262/badge)](https://www.bestpractices.dev/projects/10262)
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/RobertReed1412/IntegrationFinal/badge)](https://securityscorecards.dev/viewer/?uri=github.com/RobertReed1412/IntegrationFinal)
 
 ## Integration Final
 
@@ -22,5 +25,5 @@ lulu@gmail.con
 ### total of bugs brought to attention in the past year.
 0
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/RobertReed1412/IntegrationFinal/badge)](https://securityscorecards.dev/viewer/?uri=github.com/RobertReed1412/IntegrationFinal)
+
 
