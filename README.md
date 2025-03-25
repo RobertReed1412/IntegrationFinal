@@ -22,6 +22,5 @@ lulu@gmail.con
 ### total of bugs brought to attention in the past year.
 0
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/RobertReed1412/IntegrationFinal/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/RobertReed1412/IntegrationFinal)
-
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/RobertReed1412/IntegrationFinal/badge)](https://securityscorecards.dev/viewer/?uri=github.com/RobertReed1412/IntegrationFinal)
 
