@@ -1,0 +1,5 @@
+# Assigns me as the only person allowed to work on python files on the backend.
+*.py @backend-Robert_Reed
+
+# Makes me the onlly admin, so only I have the authority to make large scale changes to the structure of the program.
+/config/ @project-Robert_Reed
