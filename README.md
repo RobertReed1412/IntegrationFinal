@@ -16,6 +16,9 @@ This repository is liscened using the **MIT Liscense** - see the [License](Licen
 ### For feedback and how to contribute to the repository please contact with the email below. 
 robertnreed1@gmail.com
 
+### For pointing out vulnerabiities found and to archive a report please send a secure ommunication to this email. 
+lulu@gmail.con
+
 ### total of bugs brought to attention in the past year.
 0
 
