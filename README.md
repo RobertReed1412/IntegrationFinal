@@ -16,6 +16,9 @@ This repository is liscened using the **MIT Liscense** - see the [License](Licen
 ### For feedback and how to contribute to the repository please contact with the email below. 
 robertnreed1@gmail.com
 
+### total of bugs brought to attention in the past year.
+0
+
 [![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{RobertReed1412}/{IntegrationFinal}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{RobertReed1412}/{IntegrationFina})
 
 
